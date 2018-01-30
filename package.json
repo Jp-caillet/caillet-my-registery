@@ -1,0 +1,26 @@
+{
+  "name": "caillet-my-registery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jp-caillet/caillet-my-registery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jp-caillet/caillet-my-registery/issues"
+  },
+  "homepage": "https://github.com/Jp-caillet/caillet-my-registery#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  },
+  "dependencies": {
+    "caillet-my-log": "file:../caillet-my-log",
+    "caillet-my-multi": "file:../caillet-my-multi"
+  }
+}
